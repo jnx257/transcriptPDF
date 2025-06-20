@@ -13,3 +13,8 @@ The script extracts the transcript text and returns it as a string.
 ### Future Goal
 
 I’m working on automating PDF generation from these transcripts—perfect for those (like me!) who prefer reading over watching tutorials.
+
+
+#### Disclaimer:
+
+This is a study project designed to explore automation in learning processes and LLM API integration. It will be iteratively improved with additional features over time.
